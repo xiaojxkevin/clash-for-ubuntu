@@ -1,6 +1,6 @@
 # clash-for-ubuntu
 
-A repo that set up `Clash For Windows` as an application in Ubuntu 22.04
+A repo that set up `Clash For Windows` as an application on Ubuntu 22.04
 
 ## Download
 
@@ -36,4 +36,4 @@ We can download the linux version of CFW from [Clash.for.Windows-0.20.39-x64-lin
 
 ## Config Your CFW as usual
 
-Now, you should be able to find your CFW Launcher in the application menu or search for it using the specified name. Clicking on the launcher should execute your cfw_launcher.sh script. Then you can confi your CFW as usual.
+Now, you should be able to find your CFW Launcher in the application menu or search for it using the specified name. Clicking on the launcher should execute your cfw_launcher.sh script. Then you can config your CFW as usual.
