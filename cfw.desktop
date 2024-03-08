@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=CFW Launcher
+Exec=/path/to/cfw_launcher.sh
+Icon=/path/to/clash_icon.png
+Terminal=false
