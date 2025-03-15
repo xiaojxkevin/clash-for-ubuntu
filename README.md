@@ -1,6 +1,8 @@
 # clash-for-ubuntu
 
-A repo that set up `Clash For Windows` as an application on Ubuntu 22.04
+A repo that set up `Clash For Windows` as an application on Ubuntu >=22.04
+
+## **Currently I am using [Sing-Box](https://github.com/GUI-for-Cores/GUI.for.SingBox), please visit the link if you are interested.**
 
 ## Download
 
