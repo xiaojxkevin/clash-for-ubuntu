@@ -2,7 +2,11 @@
 
 A repo that set up `Clash For Windows` as an application on Ubuntu >=22.04
 
-## **Currently I am using [Sing-Box](https://github.com/GUI-for-Cores/GUI.for.SingBox), please visit the link if you are interested.**
+### Notes && Updates 
+
+1. [Sing-Box](https://github.com/GUI-for-Cores/GUI.for.SingBox) and [clash-verge](https://github.com/clash-verge-rev/clash-verge-rev) would be good tools. You can find clear references using them.
+2. [clash-for-linux](https://github.com/wnlen/clash-for-linux) and [clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install) are good choices for cmd-line installs, which can be used for remote headless servers.
+3. [Github520](https://github.com/521xueweihan/GitHub520) is the tool for remote servers visiting GitHub.
 
 ## Download
 
